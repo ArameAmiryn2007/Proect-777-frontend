@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+}
+.nav-row{
+    width: 100%;
+    height: 100vh;
+    background: #181818;
+    color: #fff;
+    position: fixed;
+    left: 0;
+    top: 0;
+    overflow: hidden;
+    z-index: 10000;
+}
+.creat-nav{
+    border: 1px solid #DAC5A726;
+    width: 380px;
+    height: 320px;
+    margin:  30px auto;
+    background: #DAC5A726;
+}
+.inp-cret{
+
+    margin: 0 auto;
+}
+.inp-cret input{
+    width: 320px;
+}
+.acount{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.submit2 input{
+    cursor: pointer;
+}
+.account{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}

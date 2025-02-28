@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+}
+.boxs{
+    width: 100%;
+    height: 100vh;
+    background: #181818;
+    color: #fff;
+    position: fixed;
+    left: 0;
+    top: 0;
+    overflow: hidden;
+    z-index: 10000;
+  
+}
+.pol-bord1{
+    border: 1px solid #ccc;
+    width: 300px;
+
+    background: #ccc;
+}
+.img-pol{
+    display: flex;
+    justify-content: center;
+}
+.img-pol img{
+    width: 350px;
+}
+.iphone p{
+    display: flex;
+    justify-content: center;
+    color: #000;
+}
+.DEL{
+    display: flex;
+    justify-content: space-between;
+    color: #000;
+    margin-top: 20px;
+}
+.gnel{
+    background: blue;
+    padding: 10px;
+    width: 70px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+}
+.del-2{
+    background: red;
+    padding: 10px;
+    width: 70px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+}
+.row-cont-nav{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
