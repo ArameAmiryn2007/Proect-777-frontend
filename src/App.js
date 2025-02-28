@@ -1,8 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
 import {useState} from "react"
 import Login from './Login';
-import Git from './Git';
 function App() {
   const [n, setN] = useState(0); 
   
